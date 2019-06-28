@@ -403,7 +403,7 @@ button {
 /* Trainer Page CSS */
 
 .trainer-container {
-    background: #fff url("../images/training-background.jpg") no-repeat center;
+    background: #fff url("../Images/training-background.jpg") no-repeat center;
     background-size: cover;
     padding: 5%;
 }
